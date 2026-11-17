@@ -47,6 +47,5 @@ def about(request):
 ```
 # OUTPUT
 ![alt text](<Screenshot 2026-11-01 150135.png>)
-![alt text](<Screenshot 2026-11-01 150152.png>)
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
